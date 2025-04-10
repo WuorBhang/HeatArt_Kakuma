@@ -28,7 +28,7 @@ body {
   font-style: normal;
   color: #757575;
   font-family: "Hind", sans-serif;
-  background-color: #ffffff;
+  background-color: #999999;
   text-rendering: optimizelegibility;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -36,7 +36,7 @@ body {
 
 ::selection {
   color: #ffffff;
-  background-color: #ff4328;
+  background-color: #be4d3b;
 }
 
 ::-moz-selection {
